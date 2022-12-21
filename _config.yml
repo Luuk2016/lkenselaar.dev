@@ -10,14 +10,12 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: LKenselaar.dev
+footer: lkenselaar.dev
 
 # Social networks usernames
 social:
-  - title: github
-    url: https://github.com/Luuk2016
-  - title: linkedin
-    url: https://www.linkedin.com/in/lkenselaar/
+  - title: twitter
+    url: https://twitter.com/lkenselaar
 
 # Build settings
 markdown: kramdown
